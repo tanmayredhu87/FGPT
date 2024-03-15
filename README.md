@@ -1,4 +1,4 @@
-# FGPT
+# FormulaGPT
 Generational AI chatbot on Formula 1 dataset
 
 This is a chatbot created using Generative AI for Formula 1.
